@@ -1,0 +1,6 @@
+{
+  "name": "Block Vice: Voxel Mission System",
+  "description": "A 3D voxel-art GTA-style open-district mission flow game featuring contract dispatch, A* GPS navigation, vehicle driving, heist/assassination execution, and reward settlement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
